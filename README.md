@@ -2,6 +2,15 @@
 REST API to register users based on GEO location
 
 
+# app-url API documentation
+http://localhost:8080/ibm/swagger-ui/index.html
+
+# POST API to register a user
+[http://localhost:8080/ibm/register](http://localhost:8080/ibm/register)
+
+<img width="1534" alt="Screenshot 2023-04-20 at 16 35 55" src="https://user-images.githubusercontent.com/60362102/233470185-1c273b1a-63c9-429d-bc96-cb9a6a7f9680.png">
+
+
 Code Assignment
 Write an API microservice using spring boot to simulate user registration:
 - Expose REST API to accept a payload of username, password, and IP address.
