@@ -10,8 +10,13 @@ http://localhost:8080/ibm/swagger-ui/index.html
 
 <img width="1534" alt="Screenshot 2023-04-20 at 16 35 55" src="https://user-images.githubusercontent.com/60362102/233470185-1c273b1a-63c9-429d-bc96-cb9a6a7f9680.png">
 
+# Github actions CI CD
+<img width="1536" alt="Screenshot 2023-04-20 at 17 19 02" src="https://user-images.githubusercontent.com/60362102/233479027-f2f124ca-438a-45e0-bfd5-663c49d0e013.png">
 
-Code Assignment
+<img width="981" alt="Screenshot 2023-04-20 at 17 19 35" src="https://user-images.githubusercontent.com/60362102/233479223-60ea81af-d249-4735-9fd0-8fea4be3804b.png">
+
+
+# Code Assignment
 Write an API microservice using spring boot to simulate user registration:
 - Expose REST API to accept a payload of username, password, and IP address.
 - All parameters must not be blank (!= empty and null). Return error messages if not valid
